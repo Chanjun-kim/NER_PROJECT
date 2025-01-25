@@ -46,8 +46,6 @@ project/
 │   ├── preprocess.py          # 데이터 전처리
 │   ├── process.py             # 처리 파이프라인
 │   ├── sample.ipynb           # 테스트를 위한 샘플 노트북
-└── tests/                     # 유닛 테스트
-    └── __init__.py
 ```
 
 ---
